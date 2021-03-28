@@ -1,1 +1,1 @@
-# Grafika-i-komunikacja-lab3
+Program został wykonany w javie. Natomiast wstawiłem ten program z lekkim opóźnieniem, ponieważ miałem przerwę w dostawie prądu od godziny 18:00, a wcześniej nie miałem dostępu do komputera z projektem.
