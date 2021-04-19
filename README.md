@@ -1,1 +1,1 @@
-Program został wykonany w javie. Natomiast wstawiłem ten program z lekkim opóźnieniem, ponieważ miałem przerwę w dostawie prądu od godziny 18:00, a wcześniej nie miałem dostępu do komputera z projektem.
+Program został wykonany w javie. Musiałem wykonać upload, ponieważ wysłałem zły plik z zadaniem na inne laboratoria.
